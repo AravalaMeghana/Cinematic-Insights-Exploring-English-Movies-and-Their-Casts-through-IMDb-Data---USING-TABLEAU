@@ -1,4 +1,9 @@
 # Cinematic-Insights-Exploring-English-Movies-and-Their-Casts-through-IMDb-Data---USING-TABLEAU
+
+I am including a link to my tableau workbook, which has all of my visualizations, for your better understanding.
+https://prod-useast-b.online.tableau.com/#/site/msis670fall2023/workbooks/1064564
+
+
 This is a Data Visualization project using IMDB data performed by using Tableau tool. 
 The primary goal of my project is to use a sizable dataset from IMDb to fully study and comprehend the world of movies. I'm concentrating on English-language films and TV shows that were released between 2010 and 2022. My objective is to unearth fascinating information regarding various facets of these films.
 In order to determine any patterns or changes in the industry throughout time, I would need to know the number of films that were released annually during this time frame. I also want to know what categories of films, or genres, are typically nominated for and winning major Oscars like Best Picture. This, in my opinion, may tell me a lot about the kinds of films that are well-liked in the business.
